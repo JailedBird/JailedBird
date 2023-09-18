@@ -1,8 +1,8 @@
 
 Hi, I’m @JailedBird 👋 
 
-![JailedBird's github stats](https://github-readme-stats.vercel.app/api?username=JailedBird&include_all_commits=true)
-
+<!--![JailedBird's github stats](https://github-readme-stats.vercel.app/api?username=JailedBird&include_all_commits=true)
+ -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JailedBird&layout=compact&hide=HTML,javascript,css)
  -->
 <!---
