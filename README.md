@@ -9,3 +9,11 @@ Hi, I’m @JailedBird 👋
 JailedBird/JailedBird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+JailedBird's Repositories:
+
+- [ArouterKspCompiler](https://github.com/JailedBird/ArouterKspCompiler) Arouter KSP annotation processor
+- [ArouterGradlePlugin](https://github.com/JailedBird/ArouterGradlePlugin) Arouter auto register plugin for AGP8
+- [EdgeUtils](https://github.com/JailedBird/EdgeUtils) Encapsulation of Google Edge-to-Edge Immersive Solution based on androidx.core
+- [jitpack](https://github.com/JailedBird/jitpack) Jitpack repository publishing tutorial
+- [Coroutine-Tutorials](https://github.com/JailedBird/) Coroutine tutorials & code sample
