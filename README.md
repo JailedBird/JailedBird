@@ -14,6 +14,7 @@ JailedBird's Repositories:
 
 - [ArouterKspCompiler](https://github.com/JailedBird/ArouterKspCompiler) Arouter KSP annotation processor
 - [ArouterGradlePlugin](https://github.com/JailedBird/ArouterGradlePlugin) Arouter auto register plugin for AGP8
+- [ModuleExpose](https://github.com/JailedBird/ModuleExpose) 基于模块暴露和Hilt的组件通信方案
 - [EdgeUtils](https://github.com/JailedBird/EdgeUtils) Encapsulation of google edge-to-edge immersive solution based on androidx.core
 - [Jitpack](https://github.com/JailedBird/jitpack) Jitpack repository publishing tutorial
 - [Coroutine-Tutorials](https://github.com/JailedBird/) Coroutine tutorials & code sample
