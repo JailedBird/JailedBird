@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 JailedBird's Repositories:
 
-- [ArouterKspCompiler](https://github.com/JailedBird/ArouterKspCompiler) Arouter KSP annotation processor
+- [ArouterKspCompiler](https://github.com/JailedBird/ArouterKspCompiler) Arouter KSP 注解处理器
 - [ArouterGradlePlugin](https://github.com/JailedBird/ArouterGradlePlugin) Arouter AGP8自动注册插件适配
 - [ModuleExpose](https://github.com/JailedBird/ModuleExpose) 基于模块暴露和Hilt的组件通信方案
 - [EdgeUtils](https://github.com/JailedBird/EdgeUtils) 基于edge-to-edge&androidx.core的安卓沉浸式方案
