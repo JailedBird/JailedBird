@@ -13,8 +13,7 @@ You can click the Preview link to take a look at your changes.
 JailedBird's Repositories:
 
 - [ArouterKspCompiler](https://github.com/JailedBird/ArouterKspCompiler) Arouter KSP annotation processor
-- [ArouterGradlePlugin](https://github.com/JailedBird/ArouterGradlePlugin) Arouter auto register plugin for AGP8
+- [ArouterGradlePlugin](https://github.com/JailedBird/ArouterGradlePlugin) Arouter AGP8自动注册插件适配
 - [ModuleExpose](https://github.com/JailedBird/ModuleExpose) 基于模块暴露和Hilt的组件通信方案
-- [EdgeUtils](https://github.com/JailedBird/EdgeUtils) Encapsulation of google edge-to-edge immersive solution based on androidx.core
-- [Jitpack](https://github.com/JailedBird/jitpack) Jitpack repository publishing tutorial
-- [Coroutine-Tutorials](https://github.com/JailedBird/) Coroutine tutorials & code sample
+- [EdgeUtils](https://github.com/JailedBird/EdgeUtils) 基于edge-to-edge&androidx.core的安卓沉浸式解决方案
+- [Jitpack](https://github.com/JailedBird/jitpack) AGP4/7、单/多模块Jitpack发布指南
