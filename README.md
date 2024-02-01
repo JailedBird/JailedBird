@@ -1,5 +1,5 @@
 
-Hi, I’m @JailedBird, a graduate of Wuhan University 👋 
+Hi, I’m @JailedBird, an Android developer graduated from Wuhan University 👋 
 
 ![JailedBird's github stats](https://github-readme-stats.vercel.app/api?username=JailedBird&include_all_commits=true)
 
